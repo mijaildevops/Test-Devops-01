@@ -8,3 +8,4 @@ Always email
 NOTIFICACION EMAIL SUCCESS
 Notificacion de slack
 se cambio localhost por Ip local
+Modificacion por Mosorioh
