@@ -6,3 +6,4 @@ cambio con el email V2 Fix
 fix jenkis emailA
 Always email
 NOTIFICACION EMAIL SUCCESS
+Notificacion de slack
